@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "900436545095",
+    "project_id": "projectfirebase-87c88",
+    "storage_bucket": "projectfirebase-87c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900436545095:android:180a2bb484ca3368a0eb62",
+        "android_client_info": {
+          "package_name": "edu.mx.unipolidgo.myfirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900436545095-vj9136s7va4eo659rp8hf2t940357iu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.mx.unipolidgo",
+            "certificate_hash": "924936fc0d54016d425955f1c01f09332a72d391"
+          }
+        },
+        {
+          "client_id": "900436545095-47ur2ccvram7hjjjrms5mn2k6uhnagup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpPNDmw0QBuEdVjeQmsrFqxBeA8AfCr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900436545095-47ur2ccvram7hjjjrms5mn2k6uhnagup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900436545095:android:68e36e1c765d11d7a0eb62",
+        "android_client_info": {
+          "package_name": "edu.mx.unipolidgo.firebaseappconection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900436545095-47ur2ccvram7hjjjrms5mn2k6uhnagup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpPNDmw0QBuEdVjeQmsrFqxBeA8AfCr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900436545095-47ur2ccvram7hjjjrms5mn2k6uhnagup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
